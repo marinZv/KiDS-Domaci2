@@ -1,0 +1,139 @@
+14:37:45 - Starting servent [4|localhost|1500]
+14:37:46 - Pausing for 500 ms
+14:37:46 - Pausing for 60000 ms
+14:37:47 - Started collecting, snapshot: 4, 0
+14:37:47 - State for node 4: 1000
+14:37:47 - Ubacio sam result u collectedLi 1000 za id:4
+14:37:47 - Sending message [4|0|4|LI_MARKER|3]
+14:37:47 - Got message [5|96|3|TRANSACTION|4]
+14:37:47 - Got message [5|59|4|TRANSACTION|4]
+14:37:47 - Got message [5|121|4|TRANSACTION|4]
+14:37:47 - Got message [5|142|9|TRANSACTION|4]
+14:37:47 - Got message [5|85|5|TRANSACTION|4]
+14:37:47 - Got message [5|118|8|TRANSACTION|4]
+14:37:47 - Got message [5|78|10|TRANSACTION|4]
+14:37:47 - Got message [5|136|5|TRANSACTION|4]
+14:37:47 - Got message [5|24|4|TRANSACTION|4]
+14:37:47 - Got message [5|130|7|TRANSACTION|4]
+14:37:47 - Got message [5|41|7|TRANSACTION|4]
+14:37:47 - Got message [5|73|1|TRANSACTION|4]
+14:37:47 - Got message [5|32|10|TRANSACTION|4]
+14:37:47 - Got message [5|52|1|TRANSACTION|4]
+14:37:47 - Got message [5|104|8|TRANSACTION|4]
+14:37:48 - Got message [5|1|6|TRANSACTION|4]
+14:37:48 - Got message [5|148|10|TRANSACTION|4]
+14:37:48 - Got message [5|70|3|TRANSACTION|4]
+14:37:48 - Got message [5|51|3|TRANSACTION|4]
+14:37:48 - Got message [5|39|6|TRANSACTION|4]
+14:37:48 - Sending message [4|1|4|LI_MARKER|5]
+14:37:48 - Got message [5|94|1|TRANSACTION|4]
+14:37:48 - Got message [5|108|2|TRANSACTION|4]
+14:37:48 - Got message [5|133|8|TRANSACTION|4]
+14:37:48 - Got message [5|23|5|TRANSACTION|4]
+14:37:48 - Got message [5|107|7|TRANSACTION|4]
+14:37:48 - Got message [5|124|9|TRANSACTION|4]
+14:37:48 - Got message [5|68|8|TRANSACTION|4]
+14:37:48 - Got message [5|50|3|TRANSACTION|4]
+14:37:48 - Got message [5|16|5|TRANSACTION|4]
+14:37:48 - Got message [5|127|6|TRANSACTION|4]
+14:37:48 - Got message [5|99|4|TRANSACTION|4]
+14:37:48 - Got message [5|111|6|TRANSACTION|4]
+14:37:48 - Got message [5|10|3|TRANSACTION|4]
+14:37:48 - Got message [5|49|10|TRANSACTION|4]
+14:37:48 - Got message [5|81|8|TRANSACTION|4]
+14:37:48 - Got message [5|31|8|TRANSACTION|4]
+14:37:48 - Got message [5|88|5|TRANSACTION|4]
+14:37:48 - Got message [5|17|4|TRANSACTION|4]
+14:37:48 - Got message [5|60|6|TRANSACTION|4]
+14:37:48 - Got message [3|2|3|LI_MARKER|4]
+14:37:48 - State for node 4: 1000
+14:37:48 - Got message [5|4|5|TRANSACTION|4]
+14:37:48 - Got message [5|40|8|TRANSACTION|4]
+14:37:48 - Got message [5|139|7|TRANSACTION|4]
+14:37:48 - Got message [5|84|3|TRANSACTION|4]
+14:37:48 - Got message [5|7|9|TRANSACTION|4]
+14:37:48 - Got message [5|65|10|TRANSACTION|4]
+14:37:48 - Got message [5|90|2|TRANSACTION|4]
+14:37:48 - Got message [5|14|10|TRANSACTION|4]
+14:37:48 - Got message [3|4||LI_TELL|4]
+14:37:48 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 1
+14:37:48 - Ubacio sam result u collectedLi 1000 za id:3
+14:37:48 - Got message [5|30|3|TRANSACTION|4]
+14:37:48 - Got message [5|145|4|TRANSACTION|4]
+14:37:48 - Got message [5|115|3|TRANSACTION|4]
+14:37:49 - Sending message [4|3|3|LI_MARKER|3]
+14:37:49 - Got message [3|7|4|LI_MARKER|4]
+14:37:49 - Got message [5|152|4|LI_MARKER|4]
+14:37:49 - Got message [5|150||LI_TELL|4]
+14:37:49 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 1
+14:37:49 - Ubacio sam result u collectedLi 1000 za id:5
+14:37:49 - Got message [6|205||LI_TELL|4]
+14:37:49 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 1
+14:37:49 - Ubacio sam result u collectedLi 1000 za id:6
+14:37:49 - Sending message [4|2||LI_TELL|3]
+14:37:49 - Sending message [4|4|3|LI_MARKER|5]
+14:37:50 - Got message [1|205||LI_TELL|4]
+14:37:50 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 1
+14:37:50 - Ubacio sam result u collectedLi 1000 za id:1
+14:37:50 - Got message [2|205||LI_TELL|4]
+14:37:50 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 1
+14:37:50 - Ubacio sam result u collectedLi 1000 za id:2
+14:37:51 - Got message [5|156|3|LI_MARKER|4]
+14:37:51 - Got message [0|154||LI_TELL|4]
+14:37:51 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 1
+14:37:51 - Ubacio sam result u collectedLi 1000 za id:0
+14:37:52 - Recorded bitcake amount for 3 = 1271
+14:37:52 - Recorded bitcake amount for 5 = 918
+14:37:52 - Recorded bitcake amount for 0 = 953
+14:37:52 - Recorded bitcake amount for 4 = 1000
+14:37:52 - Recorded bitcake amount for 1 = 698
+14:37:52 - Recorded bitcake amount for 2 = 515
+14:37:52 - Recorded bitcake amount for 6 = 1464
+14:37:52 - Unreceived bitcake amount: 37 from servent 0 to servent 2
+14:37:52 - Unreceived bitcake amount: 19 from servent 0 to servent 6
+14:37:52 - Unreceived bitcake amount: -10 from servent 2 to servent 0
+14:37:52 - Unreceived bitcake amount: 283 from servent 2 to servent 3
+14:37:52 - Unreceived bitcake amount: 157 from servent 2 to servent 6
+14:37:52 - Unreceived bitcake amount: -175 from servent 5 to servent 1
+14:37:52 - Unreceived bitcake amount: 114 from servent 5 to servent 4
+14:37:52 - Unreceived bitcake amount: -100 from servent 5 to servent 6
+14:37:52 - Unreceived bitcake amount: -235 from servent 6 to servent 0
+14:37:52 - Unreceived bitcake amount: 25 from servent 6 to servent 2
+14:37:52 - Unreceived bitcake amount: 47 from servent 6 to servent 3
+14:37:52 - Unreceived bitcake amount: 19 from servent 6 to servent 5
+14:37:52 - System bitcake count7000, for snapshot version 0
+14:38:46 - Pausing for 60000 ms
+14:38:46 - Started collecting, snapshot: 4, 1
+14:38:46 - State for node 4: 1000
+14:38:46 - Ubacio sam result u collectedLi 1000 za id:4
+14:38:48 - Sending message [4|5|4|LI_MARKER|3]
+14:38:48 - Sending message [4|6|4|LI_MARKER|5]
+14:38:49 - Got message [3|9||LI_TELL|4]
+14:38:49 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 2
+14:38:49 - Ubacio sam result u collectedLi 1000 za id:3
+14:38:49 - Got message [3|12|4|LI_MARKER|4]
+14:38:49 - Got message [5|160|4|LI_MARKER|4]
+14:38:49 - Got message [5|158||LI_TELL|4]
+14:38:49 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 2
+14:38:49 - Ubacio sam result u collectedLi 1000 za id:5
+14:38:49 - Got message [1|210||LI_TELL|4]
+14:38:49 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 2
+14:38:49 - Ubacio sam result u collectedLi 1000 za id:1
+14:38:50 - Got message [2|210||LI_TELL|4]
+14:38:50 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 2
+14:38:50 - Ubacio sam result u collectedLi 1000 za id:2
+14:38:50 - Got message [6|210||LI_TELL|4]
+14:38:50 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 2
+14:38:50 - Ubacio sam result u collectedLi 1000 za id:6
+14:38:50 - Got message [0|158||LI_TELL|4]
+14:38:50 - Dobio sam tell, treba da obradim tell poruku, snapshot_no: 2
+14:38:50 - Ubacio sam result u collectedLi 1000 za id:0
+14:38:52 - Recorded bitcake amount for 0 = 953
+14:38:52 - Recorded bitcake amount for 5 = 741
+14:38:52 - Recorded bitcake amount for 1 = 724
+14:38:52 - Recorded bitcake amount for 4 = 1286
+14:38:52 - Recorded bitcake amount for 2 = 787
+14:38:52 - Recorded bitcake amount for 6 = 658
+14:38:52 - Recorded bitcake amount for 3 = 1851
+14:38:52 - System bitcake count7000, for snapshot version 1
+14:39:46 - Stopping...
